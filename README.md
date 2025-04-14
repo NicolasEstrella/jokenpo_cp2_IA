@@ -36,4 +36,4 @@ pip install opencv-python mediapipe
 
 ## 📷 Apresentação
 
-- https://drive.google.com/file/d/1jcxp27x-q4_9IpEj34dPH5Bb0eNkU48H/view?usp=sharing
+- Em caso de dúvidas, segue link da [apresentação do projeto Jokenpô](https://drive.google.com/file/d/1jcxp27x-q4_9IpEj34dPH5Bb0eNkU48H/view?usp=sharing)
