@@ -4,11 +4,11 @@ Este é um projeto em Python que usa **OpenCV** e **MediaPipe** para jogar **Ped
 
 ## 🚀 Integrantes do Grupo
 
-- Gabriel Arbigaus Carvalho de Souza RM93372
-- Guilherme Cardoso Barreiro RM94726
-- Henrique Copatti Cruz RM94751
-- Nicolas Estrella Porciuncula RM94236
-- Osvaldo José Sandoli Neto RM93220
+- **RM93372:** Gabriel Arbigaus Carvalho de Souza 
+- **RM94726:** Guilherme Cardoso Barreiro 
+- **RM94751:** Henrique Copatti Cruz 
+- **RM94236:** Nicolas Estrella Porciuncula 
+- **RM93220:** Osvaldo José Sandoli Neto 
 
 ## 🧠 Como Funciona
 
