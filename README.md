@@ -30,3 +30,10 @@ Antes de rodar, instale as dependências:
 
 ```bash
 pip install opencv-python mediapipe
+```
+
+---
+
+## 📷 Apresentação
+
+- https://drive.google.com/file/d/1jcxp27x-q4_9IpEj34dPH5Bb0eNkU48H/view?usp=sharing
